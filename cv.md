@@ -4,6 +4,7 @@
 **Email**: strelod@gmail.com |![photo with me](./img/avatar.jpeg)
 **Telegram**: @o1a00         |
 -----------------------------|---
+
 ## About myself:
 I am art historian which scholar interest lies in the XXth century art, modernism and specificly the art excluded from art historian studies because of the censorship in the USSR period.
 
