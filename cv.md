@@ -1,17 +1,17 @@
 ### Olga Strelkova's CV
----
+-----------------------------
 ## Contact information📫:
-**Email**: strelod@gmail.com
-**Telegram**: @o1a00
----
+**Email**: strelod@gmail.com |![photo with me](./img/avatar.jpeg)
+**Telegram**: @o1a00         |
+-----------------------------|---
 ## About myself:
 I am art historian which scholar interest lies in the XXth century art, modernism and specificly the art excluded from art historian studies because of the censorship in the USSR period.
 
 
-My engagement with IT started from the deep understanding that the humanitarian studies had a vital need in them. Technoligies for visual and big data analyses, dizitalization of archives - these all can make the academic research worldwide accessible and significatly more prolific.
+My engagement with IT started from the deep understanding that the humanitarian studies had a vital need in them. Technologies for visual and big data analyses, dizitalization of archives - these all can make academic research worldwide accessible and significatly more prolific.
 
 
-After one and half a year of studying Java Script I dived deep into the world of programming and absolutely convinced that it is not just a tool for the other fields but the basis of the future.
+After one and half a year of studying Java Script I dived deep into the world of programming and got absolutely convinced that it was not just a tool for the other fields but the basis of the future.
 
 
 ## Technology stack:
@@ -23,36 +23,23 @@ After one and half a year of studying Java Script I dived deep into the world of
 
 ## Code example:
 
-` export class Section {
-  constructor( renderer, container) {
-    this._container = container;
-    this._renderer = renderer;
-  }
-
-  renderElements(items) {
-    items.forEach((item) => {
-      this._renderer(item);
-    });
-  }
-
-  addItem(element) {
-    this._container.prepend(element);
-  }
+` function multiply(a, b){
+  return (a * b);
 } `
 
 ## My projects:
-Mesto - SPA for photos sharing
-[Pure JS]()
-[React + Express]()
+####### Mesto - SPA for sharing photos
+[Pure JS](https://github.com/OlgaStrelk/mesto#readme)
+[React + Express](https://github.com/OlgaStrelk/react-mesto-api-full#readme)
 
-Landings: 
-* [Russian Travel]()
-* [How to Learn]()
+####### Landings
+* [Russian Travel](https://github.com/OlgaStrelk/russian-travel#readme)
+* [How to Learn](https://github.com/OlgaStrelk/how-to-learn#readme)
 
 ## Education:
 * Yandex Praktikum: Web Developer (2021-2022)
 * Rolling Scopes: Java Script and React (at present)
 
 ## Languages:
-* English *B2* (Upper-Intermediate)
+* English *C1* (Advanced)
 * Deutch *A2*
