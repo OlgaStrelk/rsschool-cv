@@ -9,13 +9,13 @@
 
 
 #### About myself:
-I am an art historian whose scholar interest lies in the XXth century art, modernism and specificly the art excluded from art historian studies because of the censorship in the USSR period.
+I&nbsp;am an&nbsp;art historian whose scholar interest lies in&nbsp;the XXth century art, modernism and specificly the art excluded from art historian studies because of&nbsp;the censorship in&nbsp;the USSR period.
 
 
-My engagement with IT started from the deep understanding that the humanitarian studies had a vital need in them. Technologies for visual and big data analyses, digitalization of archives - these all can make academic research worldwide accessible and significatly more prolific.
+My&nbsp;engagement with&nbsp;IT started from the deep understanding that the humanitarian studies had a&nbsp;vital need in&nbsp;them. Technologies for visual and big data analyses, digitalization of&nbsp;archives&nbsp;&mdash; these all can make academic research worldwide accessible and significatly more prolific.
 
 
-After one and half a year of studying Java Script I dived deep into the world of programming and got absolutely convinced that it was not just a tool for the other fields but the basis of the future.
+After one and half a&nbsp;year of&nbsp;studying Java Script I&nbsp;dived deep into the world of&nbsp;programming and got absolutely convinced that it&nbsp;was not just a&nbsp;tool for the other fields but the basis of&nbsp;the future.
 
 
 #### Technology stack:
