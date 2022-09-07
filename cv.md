@@ -51,5 +51,5 @@ After one and half a&nbsp;year of&nbsp;studying Java Script I&nbsp;dived deep in
 * Rolling Scopes: Java Script and React (at present)
 
 #### Languages:
-* English *C1* (Advanced)
-* Deutch *A2*
+* English __*C1*__ (Advanced)
+* Deutch __*A2*__
