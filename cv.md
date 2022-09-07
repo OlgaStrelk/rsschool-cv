@@ -1,14 +1,14 @@
 ### Olga Strelkova's CV
 ![photo with me](./img/avatar.jpg)
 
-## Contact information📫:
+#### Contact information📫:
 **Email**: strelod@gmail.com
 
 
 **Telegram**: @o1a00
 
 
-## About myself:
+#### About myself:
 I am an art historian whose scholar interest lies in the XXth century art, modernism and specificly the art excluded from art historian studies because of the censorship in the USSR period.
 
 
@@ -18,7 +18,7 @@ My engagement with IT started from the deep understanding that the humanitarian 
 After one and half a year of studying Java Script I dived deep into the world of programming and got absolutely convinced that it was not just a tool for the other fields but the basis of the future.
 
 
-## Technology stack:
+#### Technology stack:
 
 • HTML • CSS • JavaScript • React + Next.js
 
@@ -31,13 +31,13 @@ After one and half a year of studying Java Script I dived deep into the world of
 
 • Webpack • Git • Docker • Figma 
 
-## Code example:
+#### Code example:
 
 ` function multiply(a, b){
   return (a * b);
 } `
 
-## My projects:
+#### My projects:
 ###### Mesto - SPA for sharing photos
 [Pure JS](https://github.com/OlgaStrelk/mesto#readme)
 [React + Express](https://github.com/OlgaStrelk/react-mesto-api-full#readme)
@@ -46,10 +46,10 @@ After one and half a year of studying Java Script I dived deep into the world of
 * [Russian Travel](https://github.com/OlgaStrelk/russian-travel#readme)
 * [How to Learn](https://github.com/OlgaStrelk/how-to-learn#readme)
 
-## Education:
+#### Education:
 * Yandex Praktikum: Web Developer (2021-2022)
 * Rolling Scopes: Java Script and React (at present)
 
-## Languages:
+#### Languages:
 * English *C1* (Advanced)
 * Deutch *A2*
