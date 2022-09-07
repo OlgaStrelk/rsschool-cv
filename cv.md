@@ -1,9 +1,10 @@
 ### Olga Strelkova's CV
 ![photo with me](./img/avatar.jpg)
------------------------------
 
 ## Contact information📫:
 **Email**: strelod@gmail.com
+
+
 **Telegram**: @o1a00
 
 
