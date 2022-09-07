@@ -39,8 +39,8 @@ After one and half a year of studying Java Script I dived deep into the world of
 
 #### My projects:
 ###### Mesto - SPA for sharing photos
-[Pure JS](https://github.com/OlgaStrelk/mesto#readme)
-[React + Express](https://github.com/OlgaStrelk/react-mesto-api-full#readme)
+* [Pure JS](https://github.com/OlgaStrelk/mesto#readme)
+* [React + Express](https://github.com/OlgaStrelk/react-mesto-api-full#readme)
 
 ###### Landings
 * [Russian Travel](https://github.com/OlgaStrelk/russian-travel#readme)
