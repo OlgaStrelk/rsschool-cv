@@ -8,6 +8,9 @@
 **Telegram**: @o1a00
 
 
+**Discord**: Olga (@OlgaStrelk)
+
+
 #### About myself:
 I&nbsp;am an&nbsp;art historian whose scholar interest lies in&nbsp;the XXth century art, modernism and specificly the art excluded from art historian studies because of&nbsp;the censorship in&nbsp;the USSR period.
 
