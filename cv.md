@@ -1,23 +1,27 @@
 ### Olga Strelkova's CV
 ![photo with me](./img/avatar.jpg)
------------------------------
 
-## Contact information📫:
+#### Contact information📫:
 **Email**: strelod@gmail.com
+
+
 **Telegram**: @o1a00
 
 
-## About myself:
-I am an art historian whose scholar interest lies in the XXth century art, modernism and specificly the art excluded from art historian studies because of the censorship in the USSR period.
+**Discord**: Olga (@OlgaStrelk)
 
 
-My engagement with IT started from the deep understanding that the humanitarian studies had a vital need in them. Technologies for visual and big data analyses, digitalization of archives - these all can make academic research worldwide accessible and significatly more prolific.
+#### About myself:
+I&nbsp;am an&nbsp;art historian whose scholar interest lies in&nbsp;the XXth century art, modernism and specificly the art excluded from art historian studies because of&nbsp;the censorship in&nbsp;the USSR period.
 
 
-After one and half a year of studying Java Script I dived deep into the world of programming and got absolutely convinced that it was not just a tool for the other fields but the basis of the future.
+My&nbsp;engagement with&nbsp;IT started from the deep understanding that the humanitarian studies had a&nbsp;vital need in&nbsp;them. Technologies for visual and big data analyses, digitalization of&nbsp;archives&nbsp;&mdash; these all can make academic research worldwide accessible and significatly more prolific.
 
 
-## Technology stack:
+After one and half a&nbsp;year of&nbsp;studying Java Script I&nbsp;dived deep into the world of&nbsp;programming and got absolutely convinced that it&nbsp;was not just a&nbsp;tool for the other fields but the basis of&nbsp;the future.
+
+
+#### Technology stack:
 
 • HTML • CSS • JavaScript • React + Next.js
 
@@ -30,25 +34,25 @@ After one and half a year of studying Java Script I dived deep into the world of
 
 • Webpack • Git • Docker • Figma 
 
-## Code example:
+#### Code example:
 
 ` function multiply(a, b){
   return (a * b);
 } `
 
-## My projects:
-####### Mesto - SPA for sharing photos
-[Pure JS](https://github.com/OlgaStrelk/mesto#readme)
-[React + Express](https://github.com/OlgaStrelk/react-mesto-api-full#readme)
+#### My projects:
+###### Mesto - SPA for sharing photos
+* [Pure JS](https://github.com/OlgaStrelk/mesto#readme)
+* [React + Express](https://github.com/OlgaStrelk/react-mesto-api-full#readme)
 
-####### Landings
+###### Landings
 * [Russian Travel](https://github.com/OlgaStrelk/russian-travel#readme)
 * [How to Learn](https://github.com/OlgaStrelk/how-to-learn#readme)
 
-## Education:
+#### Education:
 * Yandex Praktikum: Web Developer (2021-2022)
 * Rolling Scopes: Java Script and React (at present)
 
-## Languages:
-* English *C1* (Advanced)
-* Deutch *A2*
+#### Languages:
+* English __*C1*__ (Advanced)
+* Deutch __*A2*__
